@@ -25,4 +25,3 @@ public class sumofdigit {
 
 }
 
-// find the smallest number

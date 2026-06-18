@@ -23,6 +23,7 @@ public static void main(String[] args) {
 	  int n = sc.nextInt();
 	  
 	   System.out.println(fact(n));
+	   sc.close();
 	 
 }
 	 

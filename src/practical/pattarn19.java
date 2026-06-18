@@ -1,5 +1,14 @@
 package practical;
 
+//
+//   @
+//  @@
+// @@@
+//@@@@
+//@@@@
+// @@@
+//  @@
+//   @
 public class pattarn19 {
 
 	public static void main(String[] args) {

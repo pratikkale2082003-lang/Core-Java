@@ -25,11 +25,12 @@ public static void main(String[] args) {
 		   
 		   
 		   if( index >= 0 &&  index < arr.length) {
-			   System.out.println(+ index + " index key is :"+ arr[index]);
+			   System.out.println( index + " index  key is : "+ arr[index]);
 			   
 		   }
 		   else {
 			   System.out.println("not found the index  value is " + arr.length);
+			   sc.close();
 		   }
 		    }
 }

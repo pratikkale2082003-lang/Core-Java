@@ -18,5 +18,6 @@ public class evenodd {
 	  else {
 		  System.out.println("Odd Number");
 	  }
+	   sc.close();
  }
 }

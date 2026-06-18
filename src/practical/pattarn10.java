@@ -1,4 +1,9 @@
 package practical;
+//    *
+//   **
+//  ***
+// ****
+//*****
 
 // left angle triangle
 public class pattarn10 {

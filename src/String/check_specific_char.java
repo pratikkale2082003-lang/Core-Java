@@ -40,6 +40,7 @@ public class check_specific_char {
         	System.out.println("Charcter " + ch + " is present String");
         }
         
+         sc.close();
 	}
 
 }

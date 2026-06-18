@@ -1,11 +1,15 @@
 package Question;
 
+import java.util.Scanner;
+
 public class PalindromeNumber {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		 int n = 121;
+		 Scanner sc  = new Scanner(System.in);
+		  System.out.print("Enter the Number : ");
+		 int n =  sc.nextInt();
 		  int num = n;
 		  
 		 int rev = 0;
@@ -22,6 +26,8 @@ public class PalindromeNumber {
 		   else {
 			   System.out.println("Non Palindrome Number");
 		   }
+		   
+		    sc.close();
 	}
 
 }

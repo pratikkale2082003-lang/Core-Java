@@ -1,6 +1,6 @@
 package oops;
 
-// extends keyword child class inherits to parent class
+// extends keyword child class inherits From parent class
 
 
 // single inheritance : childs class aquires properties to another class

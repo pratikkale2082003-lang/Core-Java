@@ -21,3 +21,10 @@ public class ArrayDeque1 {
 		   System.out.println(" After Deque : "+ d);
 	}
 }
+
+//addFirst()	  Front ला element add करतो
+//addLast()  	  Rear ला element add करतो
+//removeFirst()	  Front मधून remove करतो
+//removeLast()	  Rear मधून remove करतो
+//peekFirst()    	Front element पाहतो
+//peekLast()	  Last element पाहतो

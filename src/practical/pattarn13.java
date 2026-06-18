@@ -1,4 +1,9 @@
 package practical;
+//ABCDE
+// ABCD
+//  ABC
+//   AB
+//    A
 
 // reverse right angle triangle.. abcd
 public class pattarn13 {

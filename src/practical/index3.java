@@ -2,6 +2,7 @@ package practical;
 
 //   enter the key is find the index
 
+// using linear search
 import java.util.*;
 public class index3 {
 

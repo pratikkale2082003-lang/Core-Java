@@ -1,6 +1,10 @@
 package practical;
 
 //  print inverted-star pattarn left angle 
+//****
+// ***
+//  **
+//   *
 
 
 public class pattarn12 {

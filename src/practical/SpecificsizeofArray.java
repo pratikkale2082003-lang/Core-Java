@@ -18,9 +18,7 @@ public class SpecificsizeofArray {
 			 number[i]= sc.nextInt();
 			 
 		 }
-		 
-		 
-		
+	
 		
 		 System.out.print("Enter the specific  : ");
 		 int key = sc.nextInt();

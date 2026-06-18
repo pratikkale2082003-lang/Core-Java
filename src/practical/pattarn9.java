@@ -1,5 +1,9 @@
 package practical;
-
+//1
+//01
+//101
+//0101
+//10101
 public class pattarn9 {
 
 	public static void main(String[] args) {

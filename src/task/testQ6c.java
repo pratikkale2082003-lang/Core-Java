@@ -1,5 +1,12 @@
 package task;
 
+
+//$h$h$
+//$h$h$
+//$h$h$
+//$h$h$
+//$h$h$
+
 public class testQ6c {
 
 	public static void main(String[] args) {

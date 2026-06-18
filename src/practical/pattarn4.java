@@ -1,4 +1,9 @@
 package practical;
+//11111
+//0   0
+//1   1
+//0   0
+//11111
 
 public class pattarn4 {
 

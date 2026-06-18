@@ -1,5 +1,12 @@
 package practical;
 //hello rectangle 0 and 1
+//
+//01010101
+//1      0
+//0      1
+//1      0
+//01010101
+
 public class pattarn16 {
 
 public static void main(String[] args) {

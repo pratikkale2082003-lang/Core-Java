@@ -18,8 +18,11 @@ public class Persantage {
 		    int obtainMarks = a+b+c+d+e;
 		    
 		     double Persantage = (obtainMarks * 100)/ Totalmarks;
+		     
+		     
 		     System.out.println("ObtainMarks :  " + obtainMarks);
 		      System.out.println("Totalmarks : " + Totalmarks  );
 		       System.out.println("Persantage : " + Persantage);
+		       sc.close();
 	}
 }

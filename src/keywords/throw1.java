@@ -8,12 +8,14 @@ public class throw1 {
 		// TODO Auto-generated method stub
 		
 				Scanner sc = new Scanner(System.in);
+				
 				System.out.println("Enter the age : ");
 				int age = sc.nextInt();
 				
 				 if (age >= 18) { 
 					 System.out.println("eligible  for voting ");
 				 }
+				 
 				 else {
 					 throw new ArithmeticException("not eligible for voting");
 				 }

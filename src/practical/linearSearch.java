@@ -12,18 +12,11 @@ public class linearSearch {
 		  for ( int i = 0; i<arr.length; i++) {
 			  
 			  if (key== arr[i]) {
-				  
-				  System.out.println(" key index is :  " + i);
-				 
-				 
-			  }
-			 
+				  System.out.println(" key index is :  " + i); 
+			
+			  } 
 			   
-		  }
-			  
-		 
-		
-
-	}
+		   }
+		}
 
 }

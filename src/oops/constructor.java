@@ -24,9 +24,9 @@ package oops;
 		   
 	  }
 	  
-	  
+
 	  default_constructor(float c , float d){
-		  System.out.println("  float constructor");
+		   System.out.println("  float constructor");
 	  }
   }
 

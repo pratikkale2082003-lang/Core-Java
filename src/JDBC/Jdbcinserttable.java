@@ -9,7 +9,7 @@ public class Jdbcinserttable {
 
 	public static void main(String[] args) throws ClassNotFoundException, SQLException {
 		
-//		Load the driver class
+//		1.Load the driver class
 	Class.forName("org.postgresql.Driver");
 	  System.out.println(" driver loadeed");
 	  
@@ -20,14 +20,14 @@ public class Jdbcinserttable {
 	  String Password = "7733";
 	  
 	  
-//	   create connection
+//	    2.create connection
 	   Connection con = DriverManager.getConnection(url, username,Password);
 	   System.out.println("Database connected  Sucessfully..");
 	   
 	    
 	   
   
-//	    create statement
+//	    3.create statement
 	   String createtable = "create table fortune3(id  SERIAL PRIMARY KEY , name varchar(50) , course varchar(50), fees int)";
 //	    insert value
 	   String insertQuery = "insert into fortune3(name,course, fees) VALUES "
@@ -37,7 +37,7 @@ public class Jdbcinserttable {
 	    Statement st = con.createStatement();
 	    System.out.println("statement is create");
 	   
-//	    execute statement
+//	   4. execute statement
 	    st.execute(createtable);
 	    st.executeUpdate(insertQuery);
 	   System.out.println(" table create and data inserted sucessfully");

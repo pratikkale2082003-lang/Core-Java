@@ -1,7 +1,7 @@
 
 
 
-
+//Hetrogeneous Array 
 
 package collectionframework;
 

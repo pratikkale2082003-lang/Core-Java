@@ -1,5 +1,10 @@
 package practical;
 
+//Array   : is a collection of similar  data types of element.
+
+
+
+ 
 //Avarage number of array 
  import java.util.*;
 public class AvgofArray1 {

@@ -26,6 +26,7 @@ public class midsizeofarray {
 			    else {
 		            System.out.println("Array middle element is: " + arr[mid]);
 			    }
+			    sc.close();
 		  }
 	}
 

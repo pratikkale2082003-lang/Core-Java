@@ -1,5 +1,12 @@
 package practical;
 // abcd left angletriangle
+
+//    A
+//   AB
+//  ABC
+// ABCD
+//ABCDE
+
 public class pattarn14 {
 
 	public static void main(String[] args) {

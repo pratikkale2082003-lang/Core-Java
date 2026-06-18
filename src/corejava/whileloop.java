@@ -6,7 +6,7 @@ public class whileloop {
 		 
 		  int i = 52;
 		   while(i <=346) {
-			    System.out.print(i + " ");
+			    System.out.println(i + " ");
 			    i++;
 			   
 		   }
